@@ -1,0 +1,32 @@
+{
+    "nombreApp" : "Componentes",
+    "rutasprincipales" : [
+        {
+            "ruta" : "buscar",
+            "icon" : "search",
+            "texto": "Buscar"
+        },
+        {
+            "ruta" : "perfil",
+            "icon" : "person",
+            "texto": "Perfil"
+        },
+        {
+            "ruta" : "historial",
+            "icon" : "history",
+            "texto": "Historial de pedidos"
+        },
+        {
+            "ruta" : "login",
+            "icon" : "logout",
+            "texto": "Cerrar sesión"
+        }
+    ],
+    "rutassecundarias" : [
+        {
+            "ruta" : "cart",
+            "icon" : "shopping_cart",
+            "texto": "Carrito de compras"
+        }
+    ]
+}
